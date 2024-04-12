@@ -1,0 +1,5 @@
+Flask
+DrissionPage
+lxml
+requests-html
+lxml_html_clean
