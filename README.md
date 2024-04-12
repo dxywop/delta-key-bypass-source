@@ -32,7 +32,7 @@ To get Delta Key Bypass up and running, follow these simple steps:
 
     ```bash
     git clone https://github.com/dxywop/delta-key-bypass-source.git
-    cd delta-key-bypass
+    cd delta-key-bypass-source
     ```
 
 2. **Install the dependencies:**
